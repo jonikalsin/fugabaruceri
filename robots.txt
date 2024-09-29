@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://fugabaruceri.netlify.app/sitemap.xml
